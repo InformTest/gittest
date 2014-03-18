@@ -2,5 +2,8 @@
 
 void main(void)
 {
-while(1); //@TODO implement all
+
+	int i =0;
+	do {
+	} while(1); //@TODO implement all
 }
